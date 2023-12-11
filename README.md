@@ -1,3 +1,3 @@
-Face recognition system
+## Face recognition system
 
-## In collaboration with Aiolearn Academy
+In collaboration with Aiolearn Academy
